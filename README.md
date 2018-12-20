@@ -1,7 +1,7 @@
 # Semantic Search using NLP features
 This is an individual Project.
 
-## PROGRAMMING TOOLS AND LIBRARIES:
+### PROGRAMMING TOOLS AND LIBRARIES:
 •	SOLR (7.5)
 •	Python (3.7)
 •	WordNet
@@ -11,8 +11,10 @@ This is an individual Project.
 
 Sources for Installation of above libraries and tools are mentioned in the report.
 
+### Corpus 
 Reuter Corpus can be downloaded from nltk_data site or else use from the attached folder.
 
+### SOLR
 The SOLR must be installed to run the project successfully.
 And from the command prompt run following commands
 1. cd the path to bin folder of solr 
